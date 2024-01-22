@@ -1,0 +1,165 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "applovin_max",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#351770614417032_351770871083673",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#351770614417032_351770957750331",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#351770614417032_351771017750325",
+      "startapp_app_id": "0",
+      "unity_game_id": "180600305",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Manajemen Keuangan Uang Singa",
+      "image": "https://djenewapul.uk/uangsinga/ssuangsinga.png"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Manajemen Keuangan Uang Singa",
+      "title": "Mengenal Aplikasi Uang Singa",
+      "image": "https://djenewapul.uk/uangsinga/ssuangsinga.png",
+      "content": "https://djenewapul.uk/uangsinga/1 Mengenal Aplikasi Uang Singa.html",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Manajemen Keuangan Uang Singa",
+      "title": "Kelebihan Aplikasi Uang Singa",
+      "image": "https://djenewapul.uk/uangsinga/ssuangsinga.png",
+      "content": "https://djenewapul.uk/uangsinga/2 Kelebihan Aplikasi Uang Singa.html",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Manajemen Keuangan Uang Singa",
+      "title": "Cara Daftar Aplikasi Uang Singa",
+      "image": "https://djenewapul.uk/uangsinga/ssuangsinga.png",
+      "content": "https://djenewapul.uk/uangsinga/3 Cara Daftar Aplikasi Uang Singa.html",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Manajemen Keuangan Uang Singa",
+      "title": "Cara Menghitung Bunga Pinjaman dan Cicilan di Aplikasi Uang Singa",
+      "image": "https://djenewapul.uk/uangsinga/ssuangsinga.png",
+      "content": "https://djenewapul.uk/uangsinga/4 Cara Menghitung Bunga Pinjaman dan Cicilan di Aplikasi Uang Singa.html",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Manajemen Keuangan Uang Singa",
+      "title": "Cara Mengubungi Admin Uang Singa",
+      "image": "https://djenewapul.uk/uangsinga/ssuangsinga.png",
+      "content": "https://djenewapul.uk/uangsinga/5 Cara Mengubungi Admin Uang Singa.html",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Manajemen Keuangan Uang Singa",
+      "title": "Daftar Lender Pinjaman Online Terpercaya di Indonesia",
+      "image": "https://djenewapul.uk/uangsinga/ssuangsinga.png",
+      "content": "https://djenewapul.uk/uangsinga/6 Daftar Lender Pinjaman Online Terpercaya di Indonesia.html",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Manajemen Keuangan Uang Singa",
+      "title": "Daftar Bank yang beri pinjaman tanpa jaminan",
+      "image": "https://djenewapul.uk/uangsinga/ssuangsinga.png",
+      "content": "https://djenewapul.uk/uangsinga/7 Daftar Bank yang beri pinjaman tanpa jaminan.html",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Manajemen Keuangan Uang Singa",
+      "title": "Daftar Lender Pinjaman Online Tenor Panjang di Indonesia",
+      "image": "https://djenewapul.uk/uangsinga/ssuangsinga.png",
+      "content": "https://djenewapul.uk/uangsinga/8 Daftar Lender Pinjaman Online Tenor Panjang di Indonesia.html",
+      "video": ""
+    },{
+      "id": 9,
+      "category": "Manajemen Keuangan Uang Singa",
+      "title": "Daftar Aplikasi Pinjaman Online Dengan Tenor 1 Bulan",
+      "image": "https://djenewapul.uk/uangsinga/ssuangsinga.png",
+      "content": "https://djenewapul.uk/uangsinga/9 Daftar Aplikasi Pinjaman Online Dengan Tenor 1 Bulan.html",
+      "video": ""
+    },{
+      "id": 10,
+      "category": "Manajemen Keuangan Uang Singa",
+      "title": "Daftar Lender Pinjaman Online dengan Bunga Rendah",
+      "image": "https://djenewapul.uk/uangsinga/ssuangsinga.png",
+      "content": "https://djenewapul.uk/uangsinga/10 Daftar Lender Pinjaman Online dengan Bunga Rendah.html",
+      "video": ""
+    },{
+      "id": 11,
+      "category": "Manajemen Keuangan Uang Singa",
+      "title": "Tips Pinjaman Online Tenor 7 Hari",
+      "image": "https://djenewapul.uk/uangsinga/ssuangsinga.png",
+      "content": "https://djenewapul.uk/uangsinga/11 Tips Pinjaman Online Tenor 7 Hari.html",
+      "video": ""
+    },{
+      "id": 12,
+      "category": "Manajemen Keuangan Uang Singa",
+      "title": "injaman Tunai Aman di Indonesia",
+      "image": "https://djenewapul.uk/uangsinga/ssuangsinga.png",
+      "content": "https://djenewapul.uk/uangsinga/12 Pinjaman Tunai Aman di Indonesia.html",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    
+  ]
+}
